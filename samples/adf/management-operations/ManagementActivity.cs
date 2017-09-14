@@ -22,7 +22,7 @@ namespace Microsoft.Azure.SqlDataWarehouse.Management
 
 
         private const string EXTENDED_PROPERTY_ADF_CLIENT_ID = "AdfClientId";
-        private const string EXTENDED_PROPERTY_ADF_CLIENT_SECRET = "AdfClientId";
+        private const string EXTENDED_PROPERTY_ADF_CLIENT_SECRET = "AdfClientSecret";
         private const string EXTENDED_PROPERTY_LOCATION = "Location";
         private const string EXTENDED_PROPERTY_RESOURCE_GROUP = "ResourceGroup";
         private const string EXTENDED_PROPERTY_SUBSCRIPTION_ID = "SubscriptionId";
